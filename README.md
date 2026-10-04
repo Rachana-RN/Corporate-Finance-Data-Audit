@@ -16,9 +16,9 @@ dispute rates across distinct corporate regions.
 * Analytics Tools: Power BI Desktop (Data Modeling & Visualization)
   
 ## Core Database Schema
-* `customers`: Tracking client demographics, regional classifications, and 
+* `customers__`: Tracking client demographics, regional classifications, and 
 historical signups.
-* `transactions`: Tracking chronological order history, monetary transaction 
+* `transactions__`: Tracking chronological order history, monetary transaction 
 values, and invoice settlement statuses.
 
 ## Key Insights Delivered
